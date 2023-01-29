@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website-React/static/css/main.64f1c19c.css",
+    "main.js": "/Portfolio-Website-React/static/js/main.07c93cf0.js",
+    "static/media/chat-project.jpg": "/Portfolio-Website-React/static/media/chat-project.732259e465e2838d00f1.jpg",
+    "static/media/Resume.pdf": "/Portfolio-Website-React/static/media/Resume.3f14fb3302fa19f47f88.pdf",
+    "static/media/Vinay-resume.png": "/Portfolio-Website-React/static/media/Vinay-resume.31734e2385a2f42ec8a8.png",
+    "static/media/weather-project.jpg": "/Portfolio-Website-React/static/media/weather-project.9584f14c0bfac39a3395.jpg",
+    "static/media/bg-rang.jfif": "/Portfolio-Website-React/static/media/bg-rang.1876183d66097ab1da9e.jfif",
+    "static/media/music-project.webp": "/Portfolio-Website-React/static/media/music-project.6c5aba8ed711487b0111.webp",
+    "index.html": "/Portfolio-Website-React/index.html",
+    "main.64f1c19c.css.map": "/Portfolio-Website-React/static/css/main.64f1c19c.css.map",
+    "main.07c93cf0.js.map": "/Portfolio-Website-React/static/js/main.07c93cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f1c19c.css",
+    "static/js/main.07c93cf0.js"
+  ]
+}
